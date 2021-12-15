@@ -6,11 +6,11 @@
         
 Сохранение в файл:
 
-<img src="2.png"></img>  
+<img src="2.PNG"></img>  
 
 Загрузка из файла
 
-<img src="3.png"></img>  
+<img src="3.PNG"></img>  
     
 проверка работы
 
